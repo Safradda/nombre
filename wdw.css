@@ -1,0 +1,27 @@
+.blanco9 {
+    height: 40vh;
+    width: 50vw;
+    background-color: #f8f5f5;
+    margin: 0 auto;
+    padding: 20px;
+    font-display: 100px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+#Nombre {
+    width: 200px;
+    
+
+}
+
+
+h1 {
+    text-align: center;
+}
+
